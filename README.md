@@ -19,7 +19,7 @@
 
 Не з першого разу, але вдалося досягнути такого результату на комп’ютері:
 
-<img src="[путь к файлу](https://github.com/user-attachments/assets/dfb65195-d9b4-4e46-b6b8-3b865f19931c)" alt="Зразок листа" width="150" height="auto">
+<img src="(https://github.com/user-attachments/assets/dfb65195-d9b4-4e46-b6b8-3b865f19931c)" alt="Зразок листа" width="150" height="auto">
 
 ![Screenshot_2](https://github.com/user-attachments/assets/dfb65195-d9b4-4e46-b6b8-3b865f19931c)
 
