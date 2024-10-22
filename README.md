@@ -19,12 +19,12 @@
 
 Не з першого разу, але вдалося досягнути такого результату на комп’ютері:
 
-<img src="https://i.ibb.co/GcL8g3q/photo-2024-10-22-16-38-08.jpg" alt="Зразок листа" width="150" height="auto">
+
 
 ![Screenshot_2](https://github.com/user-attachments/assets/dfb65195-d9b4-4e46-b6b8-3b865f19931c)
 
 
 <b>І також протестовано на смартфоні:</b>
 
-![photo_2024-10-22_16-38-09](https://github.com/user-attachments/assets/50f916a2-2c07-439e-a27b-209c47e1fdef)
-![photo_2024-10-22_16-38-08](https://github.com/user-attachments/assets/8cf0f6f5-147a-4ef9-9532-c2d6667a070d)
+<img src="https://i.ibb.co/GcL8g3q/photo-2024-10-22-16-38-08.jpg" alt="Зразок листа" width="300" height="auto">
+<img src="https://i.ibb.co/JvWbmdB/photo-2024-10-22-16-38-09.jpg" alt="Зразок листа" width="300" height="auto">
