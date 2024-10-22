@@ -26,5 +26,7 @@
 
 <b>І також протестовано на смартфоні:</b>
 
-<img src="https://i.ibb.co/GcL8g3q/photo-2024-10-22-16-38-08.jpg" alt="Зразок листа" width="300" height="auto">
+
 <img src="https://i.ibb.co/JvWbmdB/photo-2024-10-22-16-38-09.jpg" alt="Зразок листа" width="300" height="auto">
+
+<img src="https://i.ibb.co/GcL8g3q/photo-2024-10-22-16-38-08.jpg" alt="Зразок листа" width="300" height="auto">
